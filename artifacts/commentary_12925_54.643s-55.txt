@@ -2,9 +2,9 @@
 NEUROCOMBAT - AI FIGHT COMMENTARY
 ======================================================================
 
-[0.0s] Both fighters exchange blows!
+[0.0s] Both fighters commit to the attack!
 [0.2s] Simultaneous strikes! The intensity is rising!
 [0.4s] What a clash! Both players engage!
-[0.7s] Both fighters exchange blows!
-[0.9s] An explosive exchange! The crowd would be on their feet!
-[1.1s] What a clash! Both players engage!
+[0.7s] Both players refuse to back down!
+[0.9s] Both fighters exchange blows!
+[1.1s] Simultaneous strikes! The intensity is rising!

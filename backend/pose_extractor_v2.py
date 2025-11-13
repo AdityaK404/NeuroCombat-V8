@@ -122,7 +122,7 @@ class PoseExtractor:
         if overlay_video:
             overlay_path = Path(overlay_video)
             overlay_path.parent.mkdir(parents=True, exist_ok=True)
-            fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+            fourcc = cv2.VideoWriter_fourcc(*'avc1')
             writer = cv2.VideoWriter(str(overlay_path), fourcc, fps, (width, height))
         
         # Data storage

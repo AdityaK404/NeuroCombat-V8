@@ -8,7 +8,7 @@
     {
       "timestamp": 0.034482758620689655,
       "frame_number": 1,
-      "text": "Both fighters exchange blows!",
+      "text": "Both fighters commit to the attack!",
       "event_type": "clash",
       "player": null,
       "confidence": 0.6
@@ -32,7 +32,7 @@
     {
       "timestamp": 0.6551724137931034,
       "frame_number": 19,
-      "text": "Both fighters exchange blows!",
+      "text": "Both players refuse to back down!",
       "event_type": "clash",
       "player": null,
       "confidence": 0.6
@@ -40,7 +40,7 @@
     {
       "timestamp": 0.8620689655172413,
       "frame_number": 25,
-      "text": "An explosive exchange! The crowd would be on their feet!",
+      "text": "Both fighters exchange blows!",
       "event_type": "clash",
       "player": null,
       "confidence": 0.6
@@ -48,7 +48,7 @@
     {
       "timestamp": 1.0689655172413792,
       "frame_number": 31,
-      "text": "What a clash! Both players engage!",
+      "text": "Simultaneous strikes! The intensity is rising!",
       "event_type": "clash",
       "player": null,
       "confidence": 0.6

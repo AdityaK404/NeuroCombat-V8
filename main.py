@@ -116,7 +116,7 @@ class NeuroCombatPipeline:
             
             output_video_path = output_dir / f"{video_path.stem}_annotated.mp4"
             fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-            video_writer = cv2.VideoWriter(
+            video_writer = cv2.VideoWriter(``
                 str(output_video_path),
                 fourcc,
                 fps,
